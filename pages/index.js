@@ -19,7 +19,7 @@ export default function Home() {
         </p>
         <div className="flex items-center justify-center flex-wrap">
           <Link href="/second">
-          <div  className="m-4 p-10 text-left text-black hover:text-green-700 m-12 border border-solid border-gray-500 hover:border-green-700 cursor-pointer">
+          <div  className="m-4 p-10 text-left text-black hover:text-green-700 m-12 border border-solid border-gray-500 hover:border-green-600 cursor-pointer">
             <h2 className='text-2xl font-bold '>Click❤ &rarr;</h2>
             <p>Introduce you to the list of my favorite foods and reasons why</p> 
           </div>

@@ -2,7 +2,6 @@ import Head from "next/head"
 import Link from "next/link"
 import Button from "./button";
 
-
 export default function first({posts}) {
     return (
       <div className="min-h-screen">

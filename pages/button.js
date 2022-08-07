@@ -1,7 +1,6 @@
 import React from 'react';
 import { useState } from 'react';  
 
-
 const Button = () => {
     const [count, setCount] = useState(0);
     const onClick = () => {
@@ -14,6 +13,7 @@ const Button = () => {
         </div>
     )
 }
+
 
 export default Button;
 
